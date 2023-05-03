@@ -1,0 +1,29 @@
+{
+  "name": "gensthtkfbrki-a-subdivided-space-for-mark-making",
+  "version": "0.0.1",
+  "description": "A tool that generates SVG files for pen plotting",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/GeNSTHTKFBRKI-a-subdivided-space-for-mark-making.git"
+  },
+  "keywords": [
+    "revdancatt",
+    "fxhash",
+    "fxparams",
+    "genartclub",
+    "generativeart"
+  ],
+  "author": "revdancatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revdancatt/GeNSTHTKFBRKI-a-subdivided-space-for-mark-making/issues"
+  },
+  "homepage": "https://github.com/revdancatt/GeNSTHTKFBRKI-a-subdivided-space-for-mark-making#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
